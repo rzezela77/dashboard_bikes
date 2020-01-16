@@ -1,0 +1,12 @@
+name: dashboard_bikes
+title: dashboard_bikes
+username:
+account: rzezela
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1519525
+bundleId: 2695612
+url: https://rzezela.shinyapps.io/dashboard_bikes/
+when: 1577543230.2872
+asMultiple: FALSE
+asStatic: FALSE
